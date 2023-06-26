@@ -1,5 +1,4 @@
-Hi, I’m Daniel Jin. I graduated from CU-Boulder with a degree in Electrical and Computer Engineering in Spring '21. 
-I’m interested in AI, Machine Learning, UI / UX, and sustainability
-I’m currently learning HTML, CSS, and JavaScript
+Hi, I’m Daniel Jin. I graduated from CU-Boulder with a degree in Electrical and Computer Engineering in May 2021. 
+I’m currently employed at Progressive as a Full Stack Developer
 
-Reach me at danieljin921@gmail.com for any inquiries
+Reach me at danieljin921@outlook.com for any inquiries
